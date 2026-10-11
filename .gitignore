@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# next.js auto-generated
+AGENTS.md
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
